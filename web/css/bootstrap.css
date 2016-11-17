@@ -5991,6 +5991,14 @@ button.close {
   background-color: #f7f7f9;
 }
 
+.bg-blue {
+  background-color: #025aa5 !important;
+}
+
+a.bg-blue:focus, a.bg-blue:hover {
+  background-color: #02386d !important;
+}
+
 .bg-primary {
   background-color: #0275d8 !important;
 }
