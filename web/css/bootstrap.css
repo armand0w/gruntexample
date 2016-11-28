@@ -4025,7 +4025,7 @@ tbody.collapse.in {
 }
 
 .navbar-nav .nav-item + .nav-item {
-  margin-left: 1rem;
+  margin-left: 4rem;
 }
 
 .navbar-light .navbar-brand,
@@ -4057,7 +4057,7 @@ tbody.collapse.in {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.active:focus,
 .navbar-light .navbar-nav .nav-link.active:hover {
-  color: rgba(0, 0, 0, 0.9);
+  text-shadow: 0 0 3px #b7b7b7, 0 0 5px #000000;
 }
 
 .navbar-light .navbar-toggler {
